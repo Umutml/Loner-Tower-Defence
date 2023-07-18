@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MyAvatarMask
+  m_Mask: 01000000010000000000000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Archer Treka
+    m_Weight: 1
+  - m_Path: Bow
+    m_Weight: 1
+  - m_Path: Rig
+    m_Weight: 1
+  - m_Path: RigLLegPlatform
+    m_Weight: 1
+  - m_Path: RigPelvis
+    m_Weight: 1
+  - m_Path: RigPelvis/RigBackObject
+    m_Weight: 1
+  - m_Path: RigPelvis/RigBackObject/Arrow
+    m_Weight: 1
+  - m_Path: RigPelvis/RigLLeg1
+    m_Weight: 1
+  - m_Path: RigPelvis/RigLLeg1/RigLLeg2
+    m_Weight: 1
+  - m_Path: RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle
+    m_Weight: 1
+  - m_Path: RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle/RigLLegFoot1
+    m_Weight: 1
+  - m_Path: RigPelvis/RigRLeg1
+    m_Weight: 1
+  - m_Path: RigPelvis/RigRLeg1/RigRLeg2
+    m_Weight: 1
+  - m_Path: RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle
+    m_Weight: 1
+  - m_Path: RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle/RigRLegFoot1
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigCape1
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigCape1/RigCape2
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigCape1/RigCape2/RigCape3
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigCape1/RigCape2/RigCape3/RigCape4
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigCape1/RigCape2/RigCape3/RigCape4/RigCape5
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigLArmCollarbone
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigLArmCollarbone/RigLArm1
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigLArmCollarbone/RigLArm1/RigLArm2
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigLArmCollarbone/RigLArm1/RigLArm2/RigLArmPalm
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigLArmCollarbone/RigLArm1/RigLArm2/RigLArmPalm/RigLArmFinger1
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigLArmCollarbone/RigLArm1/RigLArm2/RigLArmPalm/RigLArmFinger1/RigLArmFinger2
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigLArmCollarbone/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigLArmCollarbone/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigLArmCollarbone/RigLArm1/RigLArm2/RigLArmPalm/RigLWeapon
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigLArmCollarbone/RigLArm1/RigLArm2/RigLArmPalm/RigLWeapon/RigLWeaponString
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigLWing
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigLWing/RigLWingBone001
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigLWing/RigLWingBone001/RigLWingBone002
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigLWing/RigLWingBone001/RigLWingBone002/RigLWingBone003
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigLWing/RigLWingBone001/RigLWingBone002/RigLWingBone003/RigLWingBone004
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigNeck
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigNeck/RigHead
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigNeck/RigHead/RigHeadDress
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigRArmCollarbone
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigRArmCollarbone/RigRArm1
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigRArmCollarbone/RigRArm1/RigRArm2
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigRArmCollarbone/RigRArm1/RigRArm2/RigRArmPalm
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigRArmCollarbone/RigRArm1/RigRArm2/RigRArmPalm/RigRArmFinger1
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigRArmCollarbone/RigRArm1/RigRArm2/RigRArmPalm/RigRArmFinger1/RigRArmFinger2
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigRArmCollarbone/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigRArmCollarbone/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigRArmCollarbone/RigRArm1/RigRArm2/RigRArmPalm/RigRWeapon
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigRWing
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigRWing/RigRWingBone001
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigRWing/RigRWingBone001/RigRWingBone002
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigRWing/RigRWingBone001/RigRWingBone002/RigRWingBone003
+    m_Weight: 1
+  - m_Path: RigPelvis/RigSpine1/RigSpine2/RigRibcage/RigRWing/RigRWingBone001/RigRWingBone002/RigRWingBone003/RigRWingBone004
+    m_Weight: 1
+  - m_Path: RigPelvis/RigTail1
+    m_Weight: 1
+  - m_Path: RigPelvis/RigTail1/RigTail2
+    m_Weight: 1
+  - m_Path: RigPelvis/RigTail1/RigTail2/RigTail3
+    m_Weight: 1
+  - m_Path: RigPelvis/RigTail1/RigTail2/RigTail3/RigTail4
+    m_Weight: 1
+  - m_Path: RigPelvis/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5
+    m_Weight: 1
+  - m_Path: RigRLegPlatform
+    m_Weight: 1

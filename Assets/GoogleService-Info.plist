@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>484147882166-9h8i5q56i2tonp3q545kl3en99ksnj7s.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.484147882166-9h8i5q56i2tonp3q545kl3en99ksnj7s</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBYmlvhmhac3nzru820e3_XuslBfimrGJw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>484147882166</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>lidre.game</string>
+	<key>PROJECT_ID</key>
+	<string>lidre-tower-defense</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lidre-tower-defense.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:484147882166:ios:826ba3fe40f5890cd71e17</string>
+</dict>
+</plist>

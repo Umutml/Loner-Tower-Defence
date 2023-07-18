@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "484147882166",
+    "project_id": "lidre-tower-defense",
+    "storage_bucket": "lidre-tower-defense.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484147882166:android:04bb74737cb98963d71e17",
+        "android_client_info": {
+          "package_name": "lidre.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484147882166-f60fkt769okduvcmnokrv6kf5vhjs5o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVBOTipaOPlQGeLjWC2yiaMTons0BzJDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484147882166-f60fkt769okduvcmnokrv6kf5vhjs5o5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "484147882166-9h8i5q56i2tonp3q545kl3en99ksnj7s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "lidre.game"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Ilumisoft.StartupManager.Editor",
+    "rootNamespace": "",
+    "references": [
+        "Ilumisoft.StartupManager"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
